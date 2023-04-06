@@ -1,9 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+# What is this Project all about
+This is a blockchain based payment streaming platform on which you can borrwo loans on your future salaries in ERC20 tokens format.
+We have used EIP1620 protocol which allows you to stream money in the blockchain based system 
+## 
 In the project directory, you can run:
 
 ### `npm start`
